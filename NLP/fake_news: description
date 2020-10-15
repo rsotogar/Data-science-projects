@@ -1,4 +1,4 @@
-The aim of this project is to train several machine learning models to classify news as fake or real using labelled data. This project uses common tools in NLP such as work tokeni-
+The aim of this project is to train several machine learning models to classify news as fake or real using labelled data. This project uses common tools in NLP such as word tokeni-
 ser, lemmatiser, stopwords removal, etc. and statistical learning models such as Random Forest, Gradient Boosting, SVM and logistic regression.
 
 Statistical NLP is widely used to preprocess text data into a numeric matrix that can be further fed to a classifier.
