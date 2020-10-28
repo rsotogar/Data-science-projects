@@ -1,0 +1,3 @@
+The aim of this analysis is to train several machine learning models to predict breast cancer from tumor quantitative features. An initial PCA is run to uncover potential
+high dimensional structures and to assess the separability of the two classes. Several machine learning classifiers are assessed via nested cross-validation on the entire
+dataset. The best models are subsequently tuned in order to enhance model performance.
